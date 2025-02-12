@@ -15,4 +15,4 @@ Data Visualization: Interactive charts display expenses by category, helping use
 
 
 
-To use, just clone the repo and run the app.py file. 
+To use, just clone the repo and run the app.py file. Dont forget to create a virtual python environment.
